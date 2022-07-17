@@ -1,0 +1,87 @@
+17-07-2022 15:40:52	This log contains information about the import schema operation into project 'CapacityPlannerDB' on computer 'DESKTOP-0V4VLF9' by user 'dell'.
+17-07-2022 15:40:52	Import of database schema has started.
+17-07-2022 15:41:20	Gathering database credentials
+17-07-2022 15:41:20	Gathering database options
+17-07-2022 15:41:20	Gathering generic database scoped configuration option
+17-07-2022 15:41:20	Gathering users
+17-07-2022 15:41:20	Gathering roles
+17-07-2022 15:41:20	Gathering application roles
+17-07-2022 15:41:20	Gathering role memberships
+17-07-2022 15:41:20	Gathering filegroups
+17-07-2022 15:41:20	Gathering full-text catalogs
+17-07-2022 15:41:20	Gathering assemblies
+17-07-2022 15:41:20	Gathering certificates
+17-07-2022 15:41:20	Gathering asymmetric keys
+17-07-2022 15:41:20	Gathering symmetric keys
+17-07-2022 15:41:20	Gathering encrypted symmetric keys
+17-07-2022 15:41:20	Gathering schemas
+17-07-2022 15:41:20	Gathering XML schema collections
+17-07-2022 15:41:20	Gathering user-defined data types
+17-07-2022 15:41:20	Gathering user-defined types
+17-07-2022 15:41:20	Gathering table types
+17-07-2022 15:41:20	Gathering unique keys for table types
+17-07-2022 15:41:20	Gathering primary keys for table types
+17-07-2022 15:41:20	Gathering indexes for table types
+17-07-2022 15:41:21	Gathering check constraints for table types
+17-07-2022 15:41:21	Gathering default constraints for table types
+17-07-2022 15:41:21	Gathering partition functions
+17-07-2022 15:41:21	Gathering partition schemes
+17-07-2022 15:41:21	Gathering functions
+17-07-2022 15:41:21	Gathering encrypted functions
+17-07-2022 15:41:21	Gathering aggregates
+17-07-2022 15:41:21	Gathering procedures
+17-07-2022 15:41:22	Gathering encrypted procedures
+17-07-2022 15:41:22	Gathering tables
+17-07-2022 15:41:23	Gathering primary keys
+17-07-2022 15:41:23	Gathering unique constraints
+17-07-2022 15:41:23	Gathering foreign keys
+17-07-2022 15:41:23	Gathering default constraints
+17-07-2022 15:41:23	Gathering check constraints
+17-07-2022 15:41:23	Gathering views
+17-07-2022 15:41:23	Gathering encrypted views
+17-07-2022 15:41:23	Gathering indexes
+17-07-2022 15:41:23	Gathering statistics
+17-07-2022 15:41:23	Gathering full-text index stoplists
+17-07-2022 15:41:23	Gathering search property lists
+17-07-2022 15:41:23	Gathering search properties
+17-07-2022 15:41:23	Gathering full-text indexes
+17-07-2022 15:41:23	Gathering column store indexes
+17-07-2022 15:41:23	Gathering spatial indexes
+17-07-2022 15:41:23	Gathering XML indexes
+17-07-2022 15:41:23	Gathering Selective XML indexes
+17-07-2022 15:41:24	Gathering encrypted triggers
+17-07-2022 15:41:24	Gathering triggers
+17-07-2022 15:41:24	Gathering encrypted and clr ddl triggers
+17-07-2022 15:41:24	Gathering ddl triggers
+17-07-2022 15:41:24	Creating edge constraints
+17-07-2022 15:41:24	Gathering synonyms
+17-07-2022 15:41:24	Gathering defaults
+17-07-2022 15:41:24	Gathering data constraint uddt bindings
+17-07-2022 15:41:24	Gathering rules
+17-07-2022 15:41:24	Gathering data constraint uddt bindings
+17-07-2022 15:41:24	Gathering message types
+17-07-2022 15:41:24	Gathering queues
+17-07-2022 15:41:24	Gathering contracts
+17-07-2022 15:41:24	Gathering services
+17-07-2022 15:41:24	Gathering event notifications
+17-07-2022 15:41:24	Gathering remote service bindings
+17-07-2022 15:41:24	Gathering broker priorities
+17-07-2022 15:41:24	Gathering signatures
+17-07-2022 15:41:24	Gathering data compression options
+17-07-2022 15:41:24	Gathering sequence types
+17-07-2022 15:41:24	Gathering security policies
+17-07-2022 15:41:24	Gather column encryption keys
+17-07-2022 15:41:24	Gathering column master keys
+17-07-2022 15:41:24	Gathering external data sources
+17-07-2022 15:41:24	Gathering external file formats
+17-07-2022 15:41:24	Gathering external tables
+17-07-2022 15:41:24	Gathering extended properties
+17-07-2022 15:41:24	Gathering assemblies
+17-07-2022 15:41:25	Gathering credentials
+17-07-2022 15:41:25	Gathering logins
+17-07-2022 15:41:25	Gathering server audits
+17-07-2022 15:41:29	Scanning project for duplicate elements
+17-07-2022 15:41:29	Finished duplicate element processing
+17-07-2022 15:41:31	Finished importing database.
+17-07-2022 15:41:31	A summary of the import was saved to the following location: C:\Users\dell\source\repos\CapacityPlannerDB\CapacityPlannerDB\Import Schema Logs\CapacityPlannerDB_20220717101052.log
+17-07-2022 15:41:31	Click Finish to continue...

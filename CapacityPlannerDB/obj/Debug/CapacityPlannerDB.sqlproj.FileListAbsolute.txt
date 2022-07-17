@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\CapacityPlannerDB\CapacityPlannerDB\bin\Debug\CapacityPlannerDB.dacpac
+C:\Users\dell\source\repos\CapacityPlannerDB\CapacityPlannerDB\bin\Debug\CapacityPlannerDB.dll
+C:\Users\dell\source\repos\CapacityPlannerDB\CapacityPlannerDB\bin\Debug\CapacityPlannerDB.pdb
+C:\Users\dell\source\repos\CapacityPlannerDB\CapacityPlannerDB\obj\Debug\CapacityPlannerDB.sqlproj.AssemblyReference.cache
+C:\Users\dell\source\repos\CapacityPlannerDB\CapacityPlannerDB\obj\Debug\Model.xml
+C:\Users\dell\source\repos\CapacityPlannerDB\CapacityPlannerDB\obj\Debug\refactor.xml
+C:\Users\dell\source\repos\CapacityPlannerDB\CapacityPlannerDB\obj\Debug\postdeploy.sql
+C:\Users\dell\source\repos\CapacityPlannerDB\CapacityPlannerDB\obj\Debug\predeploy.sql
+C:\Users\dell\source\repos\CapacityPlannerDB\CapacityPlannerDB\obj\Debug\CapacityPlannerDB.dll
+C:\Users\dell\source\repos\CapacityPlannerDB\CapacityPlannerDB\obj\Debug\CapacityPlannerDB.pdb
